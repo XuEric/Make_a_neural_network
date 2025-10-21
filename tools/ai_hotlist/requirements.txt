@@ -1,0 +1,7 @@
+feedparser==6.0.11
+requests==2.32.3
+beautifulsoup4==4.12.3
+arxiv==2.1.3
+PyGithub==2.5.0
+pytz==2024.1
+python-dateutil==2.9.0.post0
